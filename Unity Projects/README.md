@@ -7,4 +7,4 @@ Space shooter
 Tanks
 2D games
 
-And, if you are really adventures, it is easy to integrate VR in to Unity.
+And, if you are really adventurous, it is easy to integrate VR in to Unity.
